@@ -1,2 +1,4 @@
-# Team 9 Group Exercise 
- 
+# Team 9 Group Exercise
+MSIS
+davidreinauer
+jbfannin
